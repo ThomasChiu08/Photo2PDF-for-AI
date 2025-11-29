@@ -1,0 +1,5 @@
+{
+  "name": "Quick PDF Reporter",
+  "description": "A client-side tool to organize text and images into a clean A4 PDF report.",
+  "requestFramePermissions": []
+}
